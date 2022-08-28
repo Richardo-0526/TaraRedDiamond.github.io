@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+# [Coming Sssoon Page - Free Bootstrap Page](http://demos.creative-tim.com/coming-sssoon-demo-image-background)
 
-You can use the [editor on GitHub](https://github.com/TaraRedDiamond/TaraRedDiamond.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+![alt text](https://s3.amazonaws.com/creativetim_bucket/products/20/original/coming_sssoon_thumbnail.png "Coming Soon Page")
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Free one page item based on Bootstrap 3. Use Coming Sssoon Page to create a following group users before actually starting your project! it is light, easy to use and it helps you be in contact with your audience.
 
-### Markdown
+Why have a coming soon page and a subscription?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Because social media spreads your message, but email and content marketing help you establish a connection with your customers.
 
-```markdown
-Syntax highlighted code block
+If you start up with this mentality, it will bring you nothing but good. So, when you think you have a hint of a product, try to validate it! Get user engagement, create social media account, set up your Mailchimp account and let people see it through a Coming Soon page.
 
-# Header 1
-## Header 2
-### Header 3
+It may sound complicated or you may be inclined to procastinate, but every step of the way is now made easier. Creative Tim's Coming soon page is a step in that direction. It is seasy to set up and customise to your needs. And it will help your customers get the main idea you are trying to create!
 
-- Bulleted
-- List
+We encourage you to create honest connections with your potential clients. Take the first step and create a coming soon page, you've come to the right place! We covered a number of different uses for the page (standard website, application, video example and a restaurant custom page). Whatever your use is, we think you will find one that fits your needs.
 
-1. Numbered
-2. List
+The next step is getting the look you want to the page. We added custom filters (standard black, blue, green, orange, red) that give an edge to the page. We can't want to see what you choose and use! We adjusted the transparency of the filters so any image can look good. Go ahead, try and use your own! You'll see how great it looks with our design.
 
-**Bold** and _Italic_ and `Code` text
+IMPORTANT - If you want to integrate a third party service for register emails we've made a tutorial here:  http://blog.creative-tim.com/web-development/set-mailchimp-custom-coming-soon-page/
 
-[Link](url) and ![Image](src)
+## Links:
+
++ [Live Preview](http://demos.creative-tim.com/coming-sssoon-demo-image-background)
+
+## Quick start
+
+Quick start options:
+
+- [Download from Github](https://github.com/creativetimofficial/coming-sssoon-page.git).
+- [Download from Creative Tim](https://www.creative-tim.com/product/coming-sssoon-page).
+- Clone the repo: `git clone https://github.com/creativetimofficial/coming-sssoon-page.git`.
+
+
+### What's included
+
+Within the download you'll find the following directories and files:
+
+```
+x_coming_sssoon_page/
+├── components.html
+├── css
+│   ├── bootstrap.css
+│   ├── coming-sssoon-demo.css
+│   └── coming-sssoon.css
+├── demo-cream-app.html
+├── demo-image-background.html
+├── demo-restaurant.html
+├── demo-video-background.html
+├── images/
+├── index.html
+└── js
+    ├── bootstrap.min.js
+    └── jquery-1.10.2.js
+
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+### Version logs
 
-### Jekyll Themes
+V1.3.2, 10 Feb 2017 [current version]
+- switched to MIT license .
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TaraRedDiamond/TaraRedDiamond.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### License
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- Copyright 2017 Creative Tim (http://www.creative-tim.com)
+- Licensed under MIT (https://github.com/creativetimofficial/coming-sssoon-page/blob/master/LICENSE.md)
+
+
+## Useful Links
+
+More products from Creative Tim: <http://www.creative-tim.com/products>
+
+Tutorials: <https://www.youtube.com/channel/UCVyTG4sCw-rOvB9oHkzZD1w>
+
+Freebies: <http://www.creative-tim.com/products>
+
+Affiliate Program (earn money): <http://www.creative-tim.com/affiliates/new>
+
+Social Media:
+
+Twitter: <https://twitter.com/CreativeTim>
+
+Facebook: <https://www.facebook.com/CreativeTim>
+
+Dribbble: <https://dribbble.com/creativetim>
+
+Google+: <https://plus.google.com/+CreativetimPage>
+
+Instagram: <https://instagram.com/creativetimofficial>
